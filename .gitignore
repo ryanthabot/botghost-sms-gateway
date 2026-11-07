@@ -1,0 +1,17 @@
+# Worker (at repo root)
+node_modules/
+.wrangler/
+.dev.vars
+*.local.md
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/captures/
+*.apk
+*.aab
+
+__pycache__/

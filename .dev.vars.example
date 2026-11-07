@@ -1,0 +1,2 @@
+# Copy to .dev.vars and set a key for local `wrangler dev` testing.
+API_KEY=change-me
